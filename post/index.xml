@@ -30,12 +30,12 @@
         <pubDate>Sat, 25 May 2024 17:43:13 +0800</pubDate>
         
         <guid>http://localhost:1313/p/almost-done/</guid>
-        <description>&lt;p&gt;After a day of searching and following the steps from the guides, I have almost set up my personal blog using Hugo and Github Page.
-I benefited hugely from &lt;a class=&#34;link&#34; href=&#34;https://www.haoyep.com/posts/windows-hugo-blog-github/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;this guide from Leehow&lt;/a&gt;
-I got lost a few times, but I managed to keep on track by referring to &lt;a class=&#34;link&#34; href=&#34;https://cuttontail.blog/blog/create-a-wesite-using-github-pages-and-hugo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;this guide by 小绵尾巴&lt;/a&gt; which is for Mac users.
-I met a few problems with git push and pull, I learnt from the answers:
+        <description>&lt;p&gt;After a day of searching and following the steps from the guides, I have almost set up my personal blog using Hugo and Github Page.&lt;/p&gt;
+&lt;p&gt;I benefited hugely from &lt;a class=&#34;link&#34; href=&#34;https://www.haoyep.com/posts/windows-hugo-blog-github/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;this guide from Leehow&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I got lost a few times, but I managed to get back on track by referring to &lt;a class=&#34;link&#34; href=&#34;https://cuttontail.blog/blog/create-a-wesite-using-github-pages-and-hugo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;this guide by 小绵尾巴&lt;/a&gt; which is for Mac users.&lt;/p&gt;
+&lt;p&gt;I met a few problems with &lt;code&gt;git push&lt;/code&gt; and ```pull``, for which I learnt from the answers:
 &lt;a class=&#34;link&#34; href=&#34;https://stackoverflow.com/a/77235346/23181212&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;fatal: unable to access &amp;rsquo; &amp;lsquo;: Failed to connect to github.com port 443 after 21058 ms: Couldn&amp;rsquo;t connect to server&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I also read GitHub Docs in vain:
