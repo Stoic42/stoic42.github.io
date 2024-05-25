@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on The Salon</title>
-        <link>https://stoic42.github.io/posts/</link>
+        <link>http://localhost:1313/posts/</link>
         <description>Recent content in Posts on The Salon</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 25 May 2024 17:43:13 +0800</lastBuildDate><atom:link href="https://stoic42.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sat, 25 May 2024 17:43:13 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Almost Done</title>
+        <link>http://localhost:1313/posts/almost/</link>
+        <pubDate>Sat, 25 May 2024 17:43:13 +0800</pubDate>
+        
+        <guid>http://localhost:1313/posts/almost/</guid>
+        <description>After a day of searching and following the steps from the guides, I have almost set up my personal blog using Hugo and Github Page. I benefited hugely from this guide from Leehow I got lost a few times, but I managed to keep on track by referring to this guide by 小绵尾巴 which is for Mac users. I met a few problems with git push and pull, I learnt from the answers: fatal: unable to access &amp;rsquo; &amp;lsquo;: Failed to connect to github.</description>
+        </item>
+        
     </channel>
 </rss>
