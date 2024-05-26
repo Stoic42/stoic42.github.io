@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Document on DESALON</title>
-        <link>http://localhost:1313/categories/document/</link>
+        <link>https://stoic42.github.io/categories/document/</link>
         <description>Recent content in Document on DESALON</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/document/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://stoic42.github.io/categories/document/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>2024广播站招新</title>
-        <link>http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/</link>
+        <link>https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/</link>
         <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/</guid>
-        <description>&lt;img src="http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/1.jpg" alt="Featured image of post 2024广播站招新" /&gt;&lt;p&gt;这篇文章提供了站长对&lt;em&gt;&lt;strong&gt;未来一年广播站规划的设想&lt;/strong&gt;&lt;/em&gt;和&lt;em&gt;&lt;strong&gt;本次广播站招人的一些情报&lt;/strong&gt;&lt;/em&gt;。&lt;/p&gt;
+        <guid>https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/</guid>
+        <description>&lt;img src="https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/1.jpg" alt="Featured image of post 2024广播站招新" /&gt;&lt;p&gt;这篇文章提供了站长对&lt;em&gt;&lt;strong&gt;未来一年广播站规划的设想&lt;/strong&gt;&lt;/em&gt;和&lt;em&gt;&lt;strong&gt;本次广播站招人的一些情报&lt;/strong&gt;&lt;/em&gt;。&lt;/p&gt;
 &lt;h2 id=&#34;老站员的意向&#34;&gt;❓老站员的意向
 &lt;/h2&gt;&lt;p&gt;首先就是想问问老站员啦！
 请问我们站还有人想继续工作一年吗？&lt;/p&gt;
@@ -27,10 +27,10 @@
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;招募新人&#34;&gt;🆕招募新人
 &lt;/h2&gt;&lt;h3 id=&#34;海报&#34;&gt;🎴海报
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/1.jpg&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/1.jpg&#34;
 	width=&#34;1587&#34;
 	height=&#34;2245&#34;
-	srcset=&#34;http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/1_hu98b8c6c12067086bc1b0d942e7975e18_255114_480x0_resize_q75_box.jpg 480w, http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/1_hu98b8c6c12067086bc1b0d942e7975e18_255114_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/1_hu98b8c6c12067086bc1b0d942e7975e18_255114_480x0_resize_q75_box.jpg 480w, https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/1_hu98b8c6c12067086bc1b0d942e7975e18_255114_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;封面 COVER&#34;
@@ -40,10 +40,10 @@
 		data-flex-grow=&#34;70&#34;
 		data-flex-basis=&#34;169px&#34;
 	
-&gt;&lt;img src=&#34;http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/2.jpg&#34;
+&gt;&lt;img src=&#34;https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/2.jpg&#34;
 	width=&#34;1587&#34;
 	height=&#34;2245&#34;
-	srcset=&#34;http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/2_hu6c105e81a3a14a8c9f4046a61c4a21f9_298087_480x0_resize_q75_box.jpg 480w, http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/2_hu6c105e81a3a14a8c9f4046a61c4a21f9_298087_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/2_hu6c105e81a3a14a8c9f4046a61c4a21f9_298087_480x0_resize_q75_box.jpg 480w, https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/2_hu6c105e81a3a14a8c9f4046a61c4a21f9_298087_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;详情页 DETAILS&#34;
@@ -53,10 +53,10 @@
 		data-flex-grow=&#34;70&#34;
 		data-flex-basis=&#34;169px&#34;
 	
-&gt;&lt;img src=&#34;http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/3.jpg&#34;
+&gt;&lt;img src=&#34;https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/3.jpg&#34;
 	width=&#34;1587&#34;
 	height=&#34;2245&#34;
-	srcset=&#34;http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/3_hu6c105e81a3a14a8c9f4046a61c4a21f9_260686_480x0_resize_q75_box.jpg 480w, http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/3_hu6c105e81a3a14a8c9f4046a61c4a21f9_260686_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/3_hu6c105e81a3a14a8c9f4046a61c4a21f9_260686_480x0_resize_q75_box.jpg 480w, https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/3_hu6c105e81a3a14a8c9f4046a61c4a21f9_260686_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;招-播音员 HOSTS&#34;
@@ -66,10 +66,10 @@
 		data-flex-grow=&#34;70&#34;
 		data-flex-basis=&#34;169px&#34;
 	
-&gt;&lt;img src=&#34;http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/4.jpg&#34;
+&gt;&lt;img src=&#34;https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/4.jpg&#34;
 	width=&#34;1587&#34;
 	height=&#34;2245&#34;
-	srcset=&#34;http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/4_hu6c105e81a3a14a8c9f4046a61c4a21f9_256919_480x0_resize_q75_box.jpg 480w, http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/4_hu6c105e81a3a14a8c9f4046a61c4a21f9_256919_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/4_hu6c105e81a3a14a8c9f4046a61c4a21f9_256919_480x0_resize_q75_box.jpg 480w, https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/4_hu6c105e81a3a14a8c9f4046a61c4a21f9_256919_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;招-音频剪辑 AUDIO EDITORS&#34;
@@ -79,10 +79,10 @@
 		data-flex-grow=&#34;70&#34;
 		data-flex-basis=&#34;169px&#34;
 	
-&gt;&lt;img src=&#34;http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/5.jpg&#34;
+&gt;&lt;img src=&#34;https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/5.jpg&#34;
 	width=&#34;1587&#34;
 	height=&#34;2245&#34;
-	srcset=&#34;http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/5_hu6c105e81a3a14a8c9f4046a61c4a21f9_274988_480x0_resize_q75_box.jpg 480w, http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/5_hu6c105e81a3a14a8c9f4046a61c4a21f9_274988_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/5_hu6c105e81a3a14a8c9f4046a61c4a21f9_274988_480x0_resize_q75_box.jpg 480w, https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/5_hu6c105e81a3a14a8c9f4046a61c4a21f9_274988_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;招-文字编辑 TEXT EDITORS&#34;
@@ -92,10 +92,10 @@
 		data-flex-grow=&#34;70&#34;
 		data-flex-basis=&#34;169px&#34;
 	
-&gt;&lt;img src=&#34;http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/6.jpg&#34;
+&gt;&lt;img src=&#34;https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/6.jpg&#34;
 	width=&#34;1587&#34;
 	height=&#34;2245&#34;
-	srcset=&#34;http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/6_hu6c105e81a3a14a8c9f4046a61c4a21f9_305776_480x0_resize_q75_box.jpg 480w, http://localhost:1313/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/6_hu6c105e81a3a14a8c9f4046a61c4a21f9_305776_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/6_hu6c105e81a3a14a8c9f4046a61c4a21f9_305776_480x0_resize_q75_box.jpg 480w, https://stoic42.github.io/p/2024%E5%B9%BF%E6%92%AD%E7%AB%99%E6%8B%9B%E6%96%B0/6_hu6c105e81a3a14a8c9f4046a61c4a21f9_305776_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;福利和津贴 PERKS&#34;
@@ -139,10 +139,10 @@
         </item>
         <item>
         <title>期中考周班会</title>
-        <link>http://localhost:1313/p/%E6%9C%9F%E4%B8%AD%E8%80%83%E5%91%A8%E7%8F%AD%E4%BC%9A/</link>
+        <link>https://stoic42.github.io/p/%E6%9C%9F%E4%B8%AD%E8%80%83%E5%91%A8%E7%8F%AD%E4%BC%9A/</link>
         <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E6%9C%9F%E4%B8%AD%E8%80%83%E5%91%A8%E7%8F%AD%E4%BC%9A/</guid>
+        <guid>https://stoic42.github.io/p/%E6%9C%9F%E4%B8%AD%E8%80%83%E5%91%A8%E7%8F%AD%E4%BC%9A/</guid>
         <description>&lt;ol&gt;
 &lt;li&gt;不要替考代课&lt;/li&gt;
 &lt;li&gt;期中考试&lt;/li&gt;
@@ -153,10 +153,10 @@
         </item>
         <item>
         <title>毕业生经验分享会</title>
-        <link>http://localhost:1313/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/</link>
+        <link>https://stoic42.github.io/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/</link>
         <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/</guid>
+        <guid>https://stoic42.github.io/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/</guid>
         <description>&lt;h2 id=&#34;校招-vs-社招以及性格问题&#34;&gt;校招 vs. 社招，以及性格问题
 &lt;/h2&gt;&lt;p&gt;特别是校招生，必须要对简历上面的东西对答如流&lt;/p&gt;
 &lt;p&gt;不是说一定要读研究生，但是他们单位会优先筛选研究生学历，薪资待遇有明显区别。
@@ -167,10 +167,10 @@
 &lt;p&gt;本科占比在减少，硕士占比在增高，甚至有些企业在严格地卡双一流。&lt;/p&gt;
 &lt;p&gt;关于性格，他在上学的时候是个I人，非常独立，不怎么交流，但是在工作中逐渐发现，协调比较重要。一般会有前辈打下的江山，自己要在其上进行工作。&lt;/p&gt;
 &lt;h2 id=&#34;招聘网站&#34;&gt;招聘网站
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/Websites.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://stoic42.github.io/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/Websites.jpg&#34;
 	width=&#34;3640&#34;
 	height=&#34;2024&#34;
-	srcset=&#34;http://localhost:1313/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/Websites_huf603e92436a91cf683e79faa98eae69b_3951567_480x0_resize_q75_box.jpg 480w, http://localhost:1313/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/Websites_huf603e92436a91cf683e79faa98eae69b_3951567_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://stoic42.github.io/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/Websites_huf603e92436a91cf683e79faa98eae69b_3951567_480x0_resize_q75_box.jpg 480w, https://stoic42.github.io/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/Websites_huf603e92436a91cf683e79faa98eae69b_3951567_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;LIST&#34;
@@ -183,10 +183,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;有什么问题都可以通过张老师询问他们，比如各个领域的（交互、特设、开发）最新的发展和要求。&lt;/p&gt;
 &lt;h2 id=&#34;如何准备面试&#34;&gt;如何准备面试
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/interview.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://stoic42.github.io/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/interview.jpg&#34;
 	width=&#34;3795&#34;
 	height=&#34;2170&#34;
-	srcset=&#34;http://localhost:1313/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/interview_huf603e92436a91cf683e79faa98eae69b_4129293_480x0_resize_q75_box.jpg 480w, http://localhost:1313/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/interview_huf603e92436a91cf683e79faa98eae69b_4129293_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://stoic42.github.io/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/interview_huf603e92436a91cf683e79faa98eae69b_4129293_480x0_resize_q75_box.jpg 480w, https://stoic42.github.io/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/interview_huf603e92436a91cf683e79faa98eae69b_4129293_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;INTERVIEW PREPARATION&#34;
@@ -241,10 +241,10 @@ JD 岗位描述 Job Description
 &lt;/h2&gt;&lt;p&gt;他们特地强调了&lt;strong&gt;PPT&lt;/strong&gt;的技能。要汇报的这些人跟本专业基本没有任何相关。
 一要能讲懂，二是别人不用看PPT也能听懂你的项目。
 基本所有要听的都是非你这个专业的人。你要把零基础的人讲明白。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/relation.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://stoic42.github.io/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/relation.jpg&#34;
 	width=&#34;3936&#34;
 	height=&#34;2288&#34;
-	srcset=&#34;http://localhost:1313/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/relation_huf603e92436a91cf683e79faa98eae69b_5291982_480x0_resize_q75_box.jpg 480w, http://localhost:1313/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/relation_huf603e92436a91cf683e79faa98eae69b_5291982_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://stoic42.github.io/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/relation_huf603e92436a91cf683e79faa98eae69b_5291982_480x0_resize_q75_box.jpg 480w, https://stoic42.github.io/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/relation_huf603e92436a91cf683e79faa98eae69b_5291982_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;RELATIONS&#34;
@@ -286,10 +286,10 @@ JD 岗位描述 Job Description
 &lt;/blockquote&gt;
 &lt;p&gt;比如阿里做到P7，没有一个管理的证书，就上不去了。
 他现在是2.5w/月，下次调薪就会出现岗位职级，换公司也是一样的。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/current.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://stoic42.github.io/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/current.jpg&#34;
 	width=&#34;940&#34;
 	height=&#34;632&#34;
-	srcset=&#34;http://localhost:1313/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/current_hu1436704c3c3da7829d639d38cc7a86ed_113724_480x0_resize_q75_box.jpg 480w, http://localhost:1313/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/current_hu1436704c3c3da7829d639d38cc7a86ed_113724_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://stoic42.github.io/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/current_hu1436704c3c3da7829d639d38cc7a86ed_113724_480x0_resize_q75_box.jpg 480w, https://stoic42.github.io/p/%E6%AF%95%E4%B8%9A%E7%94%9F%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A/current_hu1436704c3c3da7829d639d38cc7a86ed_113724_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;SITUATION&#34;
