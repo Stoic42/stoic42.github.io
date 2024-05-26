@@ -2,40 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on DESALON</title>
-        <link>https://stoic42.github.io/tags/</link>
+        <link>http://localhost:1313/tags/</link>
         <description>Recent content in Tags on DESALON</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://stoic42.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Advertisement</title>
-        <link>https://stoic42.github.io/tags/advertisement/</link>
+        <link>http://localhost:1313/tags/advertisement/</link>
         <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/tags/advertisement/</guid>
+        <guid>http://localhost:1313/tags/advertisement/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Meeting</title>
+        <link>http://localhost:1313/tags/meeting/</link>
+        <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/meeting/</guid>
         <description></description>
         </item>
         <item>
         <title>Public</title>
-        <link>https://stoic42.github.io/tags/public/</link>
+        <link>http://localhost:1313/tags/public/</link>
         <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/tags/public/</guid>
+        <guid>http://localhost:1313/tags/public/</guid>
         <description></description>
         </item>
         <item>
         <title>Recruitment</title>
-        <link>https://stoic42.github.io/tags/recruitment/</link>
+        <link>http://localhost:1313/tags/recruitment/</link>
         <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/tags/recruitment/</guid>
+        <guid>http://localhost:1313/tags/recruitment/</guid>
         <description></description>
         </item>
         <item>
         <title>University</title>
-        <link>https://stoic42.github.io/tags/university/</link>
+        <link>http://localhost:1313/tags/university/</link>
         <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/tags/university/</guid>
+        <guid>http://localhost:1313/tags/university/</guid>
         <description></description>
         </item>
         

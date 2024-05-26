@@ -2,10 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on DESALON</title>
-        <link>https://stoic42.github.io/posts/</link>
+        <link>http://localhost:1313/posts/</link>
         <description>Recent content in Posts on DESALON</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 25 May 2024 18:52:19 +0800</lastBuildDate><atom:link href="https://stoic42.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sat, 25 May 2024 18:52:19 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Configuring</title>
+        <link>http://localhost:1313/posts/configuring/configuring/</link>
+        <pubDate>Sat, 25 May 2024 18:52:19 +0800</pubDate>
+        
+        <guid>http://localhost:1313/posts/configuring/configuring/</guid>
+        <description>&lt;p&gt;After researching into the two repositories of Jimmy Cai and his/her official documents, I moved the yaml file away and used the toml file instead. Things soon changed towards a positive direction, however, I lost the previously catalogued blog posts! I am writing this new post to find out what the problem is.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Almost Done</title>
+        <link>http://localhost:1313/posts/almost/almost/</link>
+        <pubDate>Sat, 25 May 2024 17:43:13 +0800</pubDate>
+        
+        <guid>http://localhost:1313/posts/almost/almost/</guid>
+        <description>&lt;p&gt;After a day of searching and following the steps from the guides, I have almost set up my personal blog using Hugo and Github Page.
+I benefited hugely from &lt;a class=&#34;link&#34; href=&#34;https://www.haoyep.com/posts/windows-hugo-blog-github/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;this guide from Leehow&lt;/a&gt;
+I got lost a few times, but I managed to keep on track by referring to &lt;a class=&#34;link&#34; href=&#34;https://cuttontail.blog/blog/create-a-wesite-using-github-pages-and-hugo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;this guide by 小绵尾巴&lt;/a&gt; which is for Mac users.
+I met a few problems with git push and pull, I learnt from the answers:
+&lt;a class=&#34;link&#34; href=&#34;https://stackoverflow.com/a/77235346/23181212&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;fatal: unable to access &amp;rsquo; &amp;lsquo;: Failed to connect to github.com port 443 after 21058 ms: Couldn&amp;rsquo;t connect to server&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I also read GitHub Docs in vain:
+&lt;a class=&#34;link&#34; href=&#34;https://docs.github.com/en/get-started/using-git/dealing-with-non-fast-forward-errors&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Dealing with non-fast-forward errors&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;One way to solve the issue is to use the &amp;ndash;allow-unrelated-histories git flag.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Here the git command will look something like this: git pull origin master &amp;ndash;allow-unrelated-histories.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You can substitute origin with the remote repository you are pulling from.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://komodor.com/learn/how-to-fix-fatal-refusing-to-merge-unrelated-histories-error/#:~:text=One%20way%20to%20solve%20the,repository%20you%20are%20pulling%20from.&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;This&lt;/a&gt; was a life-saver, but soon I needed help from &lt;a class=&#34;link&#34; href=&#34;https://stackoverflow.com/a/3407920/23181212&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;How do I resolve merge conflicts in a Git repository?&lt;/a&gt; and acquired the knowledge about &lt;code&gt;mergetool&lt;/code&gt; and &lt;code&gt;checkout&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;I also read of &lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/guide/getting-started&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Jimmy Cai&amp;rsquo;s official explanation of how he/she recommends to install his/her hugo theme: Stack&lt;/a&gt;, but unfortunately it was too late.&lt;/p&gt;
+&lt;p&gt;I still have a few things on my list which I did not manage to fix, and actually those could be just one problem: I do not have the pictures and css on my site as on &lt;a class=&#34;link&#34; href=&#34;https://dev.stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;samplesite&lt;/a&gt; of this theme.&lt;/p&gt;
+&lt;p&gt;Wish me luck.&lt;/p&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>
