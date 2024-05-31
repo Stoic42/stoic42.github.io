@@ -6,14 +6,365 @@
         <description>Recent content in Outline on DESALON</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://stoic42.github.io/tags/outline/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://stoic42.github.io/tags/outline/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PR31504财务管理期中考 考后复盘</title>
+        <link>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E8%80%83%E5%90%8E%E5%A4%8D%E7%9B%98/</link>
+        <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E8%80%83%E5%90%8E%E5%A4%8D%E7%9B%98/</guid>
+        <description>&lt;p&gt;这次考试考了很多我没想到要复习的地方，
+比如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;balance sheet和income sheet上面分别有什么
+&lt;ul&gt;
+&lt;li&gt;好险卷子里面有一个例子&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;EBIT和Interest的比例
+&lt;ul&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;EBIT is calculated as &lt;strong&gt;revenue minus expenses excluding tax and interest&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.investopedia.com/terms/e/ebit.asp#:~:text=Earnings%20before%20interest%20and%20taxes%20%28EBIT%29%20indicate%20a%20company%27s%20profitability,profit%20before%20interest%20and%20taxes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Earnings Before Interest and Taxes (EBIT) - Investopedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;优先股和普通股的区别
+&lt;ul&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Earnings per share&lt;/em&gt; (&lt;em&gt;EPS&lt;/em&gt;) is a company&amp;rsquo;s net income subtracted by &lt;em&gt;preferred&lt;/em&gt; dividends and then divided by the number of &lt;em&gt;common shares&lt;/em&gt; it has outstanding. &lt;em&gt;EPS&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.investopedia.com/terms/e/eps.asp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;Earnings Per Share(EPS)&lt;/strong&gt;: What It Means and How to Calculate It&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;似乎优先股变多真的会导致普通股每股的earning变少，还查到优先股是没有股东的那些权利的，就是优先分钱。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Limited Liability Company (LLC) is a hybrid between
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;a partnership and a corporation&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.asha.org/practice/businessentities/#:~:text=Limited%20Liability%20Company%20%28LLC%29,a%20partnership%20and%20a%20corporation.&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Types of Business Entities - ASHA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Easiest form of business organization to transfer ownership
+&lt;ul&gt;
+&lt;li&gt;Corporation Corporations&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Transferring Ownership of a &lt;strong&gt;Corporation&lt;/strong&gt;Corporations are by far, the easiest to types of incorporated structures to transfer, whether this is part or the whole company.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.companiesinc.com/start-a-business/transfer-of-ownership/#:~:text=Transferring%20Ownership%20of%20a%20Corporation,part%20or%20the%20whole%20company.&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Transfer of Ownership of Various Business Types&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;这题我做错了😭，不死心又问了GPT&lt;code&gt;easiest form to transfer ownership corporate or sole proprietorship&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The easiest form to transfer ownership is a corporation.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In a corporation, ownership is represented by shares of stock, which can be easily bought and sold without affecting the operations or legal status of the company. This makes it straightforward for shareholders to transfer their ownership interest to others.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;On the other hand, a sole proprietorship is owned and operated by a single individual. Transferring ownership in a sole proprietorship involves selling the entire business, including its assets and liabilities, which can be more complicated and requires more legal and administrative work.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;Therefore, in terms of ease of transferring ownership, a corporation is the better option.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;一开始比较纳闷提到利润是算单利还是复利，但是只有复利算出的结果出现在选项里。
+还发现Derek真的是不环保，居然没有双面打印。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>PR31504财务管理期中考 详尽版</title>
+        <link>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E8%AF%A6%E5%B0%BD%E7%89%88/</link>
+        <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E8%AF%A6%E5%B0%BD%E7%89%88/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;The following content has been generated by giving all the slides of the FOUR topics to ChatGPT4-o and asking the model to &lt;code&gt;offer Chinese back to back translation for this review material&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;topic-1-introducing-financial-management&#34;&gt;Topic 1: Introducing Financial Management
+&lt;/h3&gt;&lt;h3 id=&#34;主题1财务管理介绍&#34;&gt;主题1：财务管理介绍
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Learning Goals:&lt;/strong&gt;
+&lt;strong&gt;学习目标：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Explain the importance of the financial manager&amp;rsquo;s role.&lt;/li&gt;
+&lt;li&gt;解释财务经理角色的重要性。&lt;/li&gt;
+&lt;li&gt;Define financial management and its major decision areas.&lt;/li&gt;
+&lt;li&gt;定义财务管理及其主要决策领域。&lt;/li&gt;
+&lt;li&gt;Identify the goal of the firm and the importance of shareholders&amp;rsquo; wealth maximization.&lt;/li&gt;
+&lt;li&gt;明确公司的目标和股东财富最大化的重要性。&lt;/li&gt;
+&lt;li&gt;Understand agency problems and corporate governance.&lt;/li&gt;
+&lt;li&gt;理解代理问题和公司治理。&lt;/li&gt;
+&lt;li&gt;Describe the role of the board of directors.&lt;/li&gt;
+&lt;li&gt;描述董事会的角色。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Key Concepts:&lt;/strong&gt;
+&lt;strong&gt;关键概念：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Financial Management:&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;财务管理：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Investment Decision: Involves decisions on capital budgeting and capital expenditure.&lt;/li&gt;
+&lt;li&gt;投资决策：涉及资本预算和资本支出的决策。&lt;/li&gt;
+&lt;li&gt;Financing Decision: Concerns sourcing and amount of financing (capital structure).&lt;/li&gt;
+&lt;li&gt;融资决策：涉及融资来源和金额（资本结构）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Goal of the Firm:&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;公司的目标：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maximization of Shareholder Wealth: Achieving the highest possible value for shareholders&amp;rsquo; equity.&lt;/li&gt;
+&lt;li&gt;股东财富最大化：实现股东权益的最高价值。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Corporate Governance:&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;公司治理：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Role of Management: Acts as agents for the shareholders.&lt;/li&gt;
+&lt;li&gt;管理层的角色：作为股东的代理人。&lt;/li&gt;
+&lt;li&gt;Role of the Board of Directors: Advises, hires, and sets compensation for executives, and reviews strategy and investments.&lt;/li&gt;
+&lt;li&gt;董事会的角色：为高管提供建议、聘用和设定薪酬，并审查战略和投资。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Examples and Cases:&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;示例和案例：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Amazon&amp;rsquo;s financial decisions&lt;/li&gt;
+&lt;li&gt;亚马逊的财务决策&lt;/li&gt;
+&lt;li&gt;Corporate Social Responsibility (CSR) example of Ele.me&lt;/li&gt;
+&lt;li&gt;饿了么的企业社会责任（CSR）示例&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;topic-2-forms-of-organization&#34;&gt;Topic 2: Forms of Organization
+&lt;/h3&gt;&lt;h3 id=&#34;主题2组织形式&#34;&gt;主题2：组织形式
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Learning Goals:&lt;/strong&gt;
+&lt;strong&gt;学习目标：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Describe the four basic forms of business organization in the U.S.&lt;/li&gt;
+&lt;li&gt;描述美国的四种基本商业组织形式。&lt;/li&gt;
+&lt;li&gt;Discuss the advantages and disadvantages of each form.&lt;/li&gt;
+&lt;li&gt;讨论每种形式的优缺点。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Key Concepts:&lt;/strong&gt;
+&lt;strong&gt;关键概念：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Forms of Organization:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;组织形式：&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Sole Proprietorship: Single owner with unlimited liability.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;独资企业：单一所有者，承担无限责任。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advantages: Low setup cost, single tax filing.&lt;/li&gt;
+&lt;li&gt;优点：设置成本低，单一纳税申报。&lt;/li&gt;
+&lt;li&gt;Disadvantages: Unlimited liability, difficult to raise capital.&lt;/li&gt;
+&lt;li&gt;缺点：无限责任，难以筹集资金。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Partnership: Business owned by two or more individuals.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;合伙企业：由两个或多个个人拥有的企业。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Types: General (unlimited liability) and Limited (liability limited to investment).&lt;/li&gt;
+&lt;li&gt;类型：普通合伙（无限责任）和有限合伙（责任限于投资）。&lt;/li&gt;
+&lt;li&gt;Advantages: Low setup cost, limited liability for limited partners.&lt;/li&gt;
+&lt;li&gt;优点：设置成本低，有限合伙人承担有限责任。&lt;/li&gt;
+&lt;li&gt;Disadvantages: Unlimited liability for general partners.&lt;/li&gt;
+&lt;li&gt;缺点：普通合伙人承担无限责任。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Corporation: Separate legal entity from its owners.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;公司：与其所有者分开的法律实体。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advantages: Limited liability, easy ownership transfer, unlimited life, easier to raise capital.&lt;/li&gt;
+&lt;li&gt;优点：有限责任，所有权转让容易，存续期无限，更容易筹集资金。&lt;/li&gt;
+&lt;li&gt;Disadvantages: Double taxation, complex setup, agency problems.&lt;/li&gt;
+&lt;li&gt;缺点：双重征税，设置复杂，代理问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Limited Liability Company (LLC): Combines limited liability with partnership tax benefits.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;有限责任公司（LLC）：结合有限责任和合伙企业的税收优惠。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advantages: Limited liability, eliminates double taxation, easier to raise capital.&lt;/li&gt;
+&lt;li&gt;优点：有限责任，消除双重征税，更容易筹集资金。&lt;/li&gt;
+&lt;li&gt;Disadvantages: Transfer of ownership difficulties, dissolution upon a member&amp;rsquo;s death in some states.&lt;/li&gt;
+&lt;li&gt;缺点：所有权转让困难，在某些州成员死亡时需解散。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;topic-3-the-time-value-of-money&#34;&gt;Topic 3: The Time Value of Money
+&lt;/h3&gt;&lt;h3 id=&#34;主题3货币的时间价值&#34;&gt;主题3：货币的时间价值
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Learning Goals:&lt;/strong&gt;
+&lt;strong&gt;学习目标：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Understand the time value of money concept.&lt;/li&gt;
+&lt;li&gt;理解货币时间价值的概念。&lt;/li&gt;
+&lt;li&gt;Learn to calculate present and future values.&lt;/li&gt;
+&lt;li&gt;学习计算现值和未来值。&lt;/li&gt;
+&lt;li&gt;Build an amortization schedule for loans.&lt;/li&gt;
+&lt;li&gt;建立贷款的摊销计划。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Key Concepts:&lt;/strong&gt;
+&lt;strong&gt;关键概念：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Time Value of Money:&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;货币的时间价值：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Relationship between present value (PV) and future value (FV).&lt;/li&gt;
+&lt;li&gt;现值（PV）和未来值（FV）之间的关系。&lt;/li&gt;
+&lt;li&gt;Types of Interest: Simple (interest on principal only) and Compound (interest on principal and accumulated interest).&lt;/li&gt;
+&lt;li&gt;利息类型：单利（仅对本金收取利息）和复利（对本金和累计利息收取利息）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Financial Calculations:&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;财务计算：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Formulas:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公式：&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple Interest: ( SI = P_0 \times i \times n )&lt;/li&gt;
+&lt;li&gt;单利：( SI = P_0 \times i \times n )&lt;/li&gt;
+&lt;li&gt;Compound Interest: Uses financial calculator functions (PV, FV, PMT, I/Y, N).&lt;/li&gt;
+&lt;li&gt;复利：使用财务计算器功能（PV、FV、PMT、I/Y、N）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Annuities:&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;年金：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ordinary Annuity: Payments at the end of each period.&lt;/li&gt;
+&lt;li&gt;普通年金：每期末付款。&lt;/li&gt;
+&lt;li&gt;Annuity Due: Payments at the beginning of each period.&lt;/li&gt;
+&lt;li&gt;预付年金：每期初付款。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;topic-4-financial-analysis&#34;&gt;Topic 4: Financial Analysis
+&lt;/h3&gt;&lt;h3 id=&#34;主题4财务分析&#34;&gt;主题4：财务分析
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Learning Goals:&lt;/strong&gt;
+&lt;strong&gt;学习目标：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduce basic financial statements.&lt;/li&gt;
+&lt;li&gt;介绍基本财务报表。&lt;/li&gt;
+&lt;li&gt;Demonstrate financial statement analysis using ratio analysis.&lt;/li&gt;
+&lt;li&gt;通过比率分析展示财务报表分析。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Key Concepts:&lt;/strong&gt;
+&lt;strong&gt;关键概念：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Basic Financial Statements:&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;基本财务报表：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Income Statement: Measures profitability.&lt;/li&gt;
+&lt;li&gt;损益表：衡量盈利能力。&lt;/li&gt;
+&lt;li&gt;Balance Sheet: Shows assets and financing through debt and equity.&lt;/li&gt;
+&lt;li&gt;资产负债表：显示资产及通过债务和权益的融资情况。&lt;/li&gt;
+&lt;li&gt;Statement of Cash Flows: Summarizes cash inflows and outflows.&lt;/li&gt;
+&lt;li&gt;现金流量表：总结现金流入和流出。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Financial Ratios:&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;财务比率：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Liquidity Ratios:&lt;/strong&gt; Ability to pay short-term obligations (e.g., Current Ratio, Quick Ratio).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;流动性比率：&lt;/strong&gt; 支付&lt;strong&gt;短期&lt;/strong&gt;债务的能力（例如，流动比率，速动比率）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Debt Utilization Ratios:&lt;/strong&gt; Estimate overall debt position (e.g., Debt-to-Equity, Times Interest Earned).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;债务利用比率：&lt;/strong&gt; 估计整体债务状况（例如，债务权益比，利息覆盖倍数）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Profitability Ratios:&lt;/strong&gt; Measure firm&amp;rsquo;s ability to earn returns (e.g., Profit Margin, Return on Assets).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;盈利能力比率：&lt;/strong&gt; 衡量企业赚取回报的能力（例如，利润率，资产回报率）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Asset Utilization Ratios:&lt;/strong&gt; Efficiency in using assets (e.g., Inventory Turnover, Total Asset Turnover).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;资产利用率：&lt;/strong&gt; 资产使用效率（例如，存货周转率，总资产周转率）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Financial Statement Analysis:&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;财务报表分析：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Internal Comparisons: Comparing firm’s past performance.&lt;/li&gt;
+&lt;li&gt;内部比较：比较企业的过去表现。&lt;/li&gt;
+&lt;li&gt;External Comparisons: Comparing with industry averages.&lt;/li&gt;
+&lt;li&gt;外部比较：与行业平均水平进行比较。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;示例：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basket Wonders’ financial ratios and trend analysis.&lt;/li&gt;
+&lt;li&gt;Basket Wonders的财务比率和趋势分析。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
         <title>PR31504财务管理期中考</title>
         <link>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83/</link>
-        <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
         
         <guid>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83/</guid>
         <description>&lt;blockquote&gt;
-&lt;p&gt;The following content has been generated by giving all the slides of the FOUR topics to ChatGPT4-o and asking the model to give &lt;code&gt;make a decent and structured review material out of the 4 topics&#39; slides&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The following content has been generated by giving all the slides of the FOUR topics to ChatGPT4-o and asking the model to &lt;code&gt;make a decent and structured review material out of the 4 topics&#39; slides&lt;/code&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;topic-1-introducing-financial-management&#34;&gt;Topic 1: Introducing Financial Management
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Learning Goals:&lt;/strong&gt;&lt;/p&gt;
@@ -179,7 +530,7 @@
         <item>
         <title>PR31504财务管理期中考 GPT预测18题</title>
         <link>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-gpt%E9%A2%84%E6%B5%8B18%E9%A2%98/</link>
-        <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
         
         <guid>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-gpt%E9%A2%84%E6%B5%8B18%E9%A2%98/</guid>
         <description>&lt;h3 id=&#34;heading&#34;&gt;
@@ -381,7 +732,7 @@
         <item>
         <title>PR31504财务管理期中考 GPT预测39题</title>
         <link>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-gpt%E9%A2%84%E6%B5%8B39%E9%A2%98/</link>
-        <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
         
         <guid>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-gpt%E9%A2%84%E6%B5%8B39%E9%A2%98/</guid>
         <description>&lt;blockquote&gt;
@@ -795,7 +1146,7 @@
         <item>
         <title>PR31504财务管理期中考 双语版</title>
         <link>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E5%8F%8C%E8%AF%AD%E7%89%88/</link>
-        <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
         
         <guid>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E5%8F%8C%E8%AF%AD%E7%89%88/</guid>
         <description>&lt;blockquote&gt;
@@ -1068,7 +1419,7 @@
         <item>
         <title>PR31504财务管理期中考 根据题目整理</title>
         <link>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E6%A0%B9%E6%8D%AE%E9%A2%98%E7%9B%AE%E6%95%B4%E7%90%86/</link>
-        <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
         
         <guid>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E6%A0%B9%E6%8D%AE%E9%A2%98%E7%9B%AE%E6%95%B4%E7%90%86/</guid>
         <description>&lt;blockquote&gt;
@@ -1288,7 +1639,7 @@ Files: all of the in- and after- class questions and their solutions&lt;/p&gt;
         <item>
         <title>PR31504财务管理期中考 根据题目整理 双语版</title>
         <link>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E6%A0%B9%E6%8D%AE%E9%A2%98%E7%9B%AE%E6%95%B4%E7%90%86-%E5%8F%8C%E8%AF%AD%E7%89%88/</link>
-        <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
         
         <guid>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E6%A0%B9%E6%8D%AE%E9%A2%98%E7%9B%AE%E6%95%B4%E7%90%86-%E5%8F%8C%E8%AF%AD%E7%89%88/</guid>
         <description>&lt;blockquote&gt;

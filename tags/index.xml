@@ -6,18 +6,50 @@
         <description>Recent content in Tags on DESALON</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://stoic42.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>MOOC</title>
-        <link>https://stoic42.github.io/tags/mooc/</link>
-        <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+        <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://stoic42.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Exam</title>
+        <link>https://stoic42.github.io/tags/exam/</link>
+        <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/tags/mooc/</guid>
+        <guid>https://stoic42.github.io/tags/exam/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Midterm</title>
+        <link>https://stoic42.github.io/tags/midterm/</link>
+        <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://stoic42.github.io/tags/midterm/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>On-Campus</title>
+        <link>https://stoic42.github.io/tags/on-campus/</link>
+        <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://stoic42.github.io/tags/on-campus/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Outline</title>
+        <link>https://stoic42.github.io/tags/outline/</link>
+        <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://stoic42.github.io/tags/outline/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>PR31504</title>
+        <link>https://stoic42.github.io/tags/pr31504/</link>
+        <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://stoic42.github.io/tags/pr31504/</guid>
         <description></description>
         </item>
         <item>
         <title>Public</title>
         <link>https://stoic42.github.io/tags/public/</link>
-        <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
         
         <guid>https://stoic42.github.io/tags/public/</guid>
         <description></description>
@@ -25,9 +57,17 @@
         <item>
         <title>University</title>
         <link>https://stoic42.github.io/tags/university/</link>
-        <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
         
         <guid>https://stoic42.github.io/tags/university/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>MOOC</title>
+        <link>https://stoic42.github.io/tags/mooc/</link>
+        <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://stoic42.github.io/tags/mooc/</guid>
         <description></description>
         </item>
         <item>
