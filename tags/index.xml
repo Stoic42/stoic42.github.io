@@ -6,18 +6,10 @@
         <description>Recent content in Tags on DESALON</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://stoic42.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Meeting</title>
-        <link>https://stoic42.github.io/tags/meeting/</link>
-        <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://stoic42.github.io/tags/meeting/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://stoic42.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Public</title>
         <link>https://stoic42.github.io/tags/public/</link>
-        <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
         
         <guid>https://stoic42.github.io/tags/public/</guid>
         <description></description>
@@ -25,9 +17,17 @@
         <item>
         <title>University</title>
         <link>https://stoic42.github.io/tags/university/</link>
-        <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
         
         <guid>https://stoic42.github.io/tags/university/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Meeting</title>
+        <link>https://stoic42.github.io/tags/meeting/</link>
+        <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://stoic42.github.io/tags/meeting/</guid>
         <description></description>
         </item>
         <item>
