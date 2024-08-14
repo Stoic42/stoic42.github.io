@@ -6,7 +6,99 @@
         <description>Recent content in Public on DESALON</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://stoic42.github.io/tags/public/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://stoic42.github.io/tags/public/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Datawhale AI 夏令营 - AIGC(2)</title>
+        <link>https://stoic42.github.io/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-aigc2/</link>
+        <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://stoic42.github.io/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-aigc2/</guid>
+        <description>&lt;p&gt;这次的课程引导学员用大语言模型助手帮助自己理解代码，并且生成新的AIGC提示词。&lt;/p&gt;
+&lt;p&gt;教案给的给大语言模型的prompt：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;你是一个文生图专家，我们现在要做一个实战项目，就是要编排一个文生图话剧
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;话剧由8张场景图片生成，你需要输出每张图片的生图提示词
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;具体的场景图片
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1、女主正在上课
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2、开始睡着了
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;3、进入梦乡，梦到自己站在路旁
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;4、王子骑马而来
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;5、两人相谈甚欢
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;6、一起坐在马背上
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;7、下课了，梦醒了
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;8、又回到了学习生活中
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;生图提示词要求
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1、风格为古风
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2、根据场景确定是使用全身还是上半身
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;3、人物描述
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;4、场景描述
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;5、做啥事情
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;例子：
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;古风，水墨画，一个黑色长发少女，坐在教室里，盯着黑板，深思，上半身，红色长裙
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;我给的：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;你是一个文生图专家，我们现在要做一个实战项目，就是要编排一个文生图话剧 话剧由8张场景图片生成，你需要输出每张图片的生图提示词 具体的场景图片 1、小猪正在上课 2、开始睡着了 3、进入梦乡，梦到自己站在路旁 4、小牛骑马而来 5、两人相谈甚欢 6、一起坐在马背上 7、下课了，梦醒了 8、又回到了学习生活中 生图提示词要求 1、风格为古风 2、根据场景确定是使用全身还是上半身 3、人物描述 4、场景描述 5、做啥事情 例子： 古风，水墨画，一只黑色的猪，坐在教室里，盯着黑板，深思，上半身，红色耳环&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;因为实在不理解为什么要有女主和王子，然后又古风¯\&lt;em&gt;(ツ)&lt;/em&gt;/¯&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://stoic42.github.io/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-aigc2/Pig.jpg&#34;
+	width=&#34;1024&#34;
+	height=&#34;1024&#34;
+	srcset=&#34;https://stoic42.github.io/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-aigc2/Pig_hueca81dcb56b4707531690f4b35e4dbcd_125259_480x0_resize_q75_box.jpg 480w, https://stoic42.github.io/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-aigc2/Pig_hueca81dcb56b4707531690f4b35e4dbcd_125259_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Pig&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;这是我的结果图。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Datawhale AI 夏令营 - LLM大模型微调(1)</title>
+        <link>https://stoic42.github.io/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-llm%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BE%AE%E8%B0%831/</link>
+        <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://stoic42.github.io/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-llm%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BE%AE%E8%B0%831/</guid>
+        <description>&lt;p&gt;最近同时参加了Datawhale第四期夏令营的三个方向还有一个翻译训练营，明天中午就要去上海了，但是行李还全没整理。&lt;/p&gt;
+&lt;p&gt;每天… 每天都好忙啊。&lt;/p&gt;
+&lt;p&gt;Datawhale每一期每个方向的夏令营都有详细的攻略，为期10天左右，每个方向的每一期都是依托于一个竞赛+一个能薅羊毛的云计算平台。&lt;/p&gt;
+&lt;p&gt;这个方向我们用的就是百度云的免费额度，并用生成好的代码，很快就能运行出结果。&lt;/p&gt;
+&lt;p&gt;我觉得能用AI出题很有意思。虽然代码全都不是自己写的，但看到output还是很有成就感。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>AIGC What</title>
         <link>https://stoic42.github.io/p/aigc-what/</link>
         <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
