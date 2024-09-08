@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Study on DESALON</title>
-        <link>https://stoic42.github.io/categories/study/</link>
+        <link>http://localhost:1313/categories/study/</link>
         <description>Recent content in Study on DESALON</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://stoic42.github.io/categories/study/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/study/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Datawhale AI 夏令营 - AIGC(2)</title>
-        <link>https://stoic42.github.io/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-aigc2/</link>
+        <link>http://localhost:1313/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-aigc2/</link>
         <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-aigc2/</guid>
+        <guid>http://localhost:1313/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-aigc2/</guid>
         <description>&lt;p&gt;这次的课程引导学员用大语言模型助手帮助自己理解代码，并且生成新的AIGC提示词。&lt;/p&gt;
 &lt;p&gt;教案给的给大语言模型的prompt：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -69,10 +69,10 @@
 &lt;p&gt;你是一个文生图专家，我们现在要做一个实战项目，就是要编排一个文生图话剧 话剧由8张场景图片生成，你需要输出每张图片的生图提示词 具体的场景图片 1、小猪正在上课 2、开始睡着了 3、进入梦乡，梦到自己站在路旁 4、小牛骑马而来 5、两人相谈甚欢 6、一起坐在马背上 7、下课了，梦醒了 8、又回到了学习生活中 生图提示词要求 1、风格为古风 2、根据场景确定是使用全身还是上半身 3、人物描述 4、场景描述 5、做啥事情 例子： 古风，水墨画，一只黑色的猪，坐在教室里，盯着黑板，深思，上半身，红色耳环&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;因为实在不理解为什么要有女主和王子，然后又古风¯\&lt;em&gt;(ツ)&lt;/em&gt;/¯&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://stoic42.github.io/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-aigc2/Pig.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-aigc2/Pig.jpg&#34;
 	width=&#34;1024&#34;
 	height=&#34;1024&#34;
-	srcset=&#34;https://stoic42.github.io/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-aigc2/Pig_hueca81dcb56b4707531690f4b35e4dbcd_125259_480x0_resize_q75_box.jpg 480w, https://stoic42.github.io/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-aigc2/Pig_hueca81dcb56b4707531690f4b35e4dbcd_125259_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-aigc2/Pig_hueca81dcb56b4707531690f4b35e4dbcd_125259_480x0_resize_q75_box.jpg 480w, http://localhost:1313/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-aigc2/Pig_hueca81dcb56b4707531690f4b35e4dbcd_125259_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Pig&#34;
@@ -87,10 +87,10 @@
         </item>
         <item>
         <title>Datawhale AI 夏令营 - LLM大模型微调(1)</title>
-        <link>https://stoic42.github.io/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-llm%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BE%AE%E8%B0%831/</link>
+        <link>http://localhost:1313/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-llm%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BE%AE%E8%B0%831/</link>
         <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-llm%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BE%AE%E8%B0%831/</guid>
+        <guid>http://localhost:1313/p/datawhale-ai-%E5%A4%8F%E4%BB%A4%E8%90%A5-llm%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BE%AE%E8%B0%831/</guid>
         <description>&lt;p&gt;最近同时参加了Datawhale第四期夏令营的三个方向还有一个翻译训练营，明天中午就要去上海了，但是行李还全没整理。&lt;/p&gt;
 &lt;p&gt;每天… 每天都好忙啊。&lt;/p&gt;
 &lt;p&gt;Datawhale每一期每个方向的夏令营都有详细的攻略，为期10天左右，每个方向的每一期都是依托于一个竞赛+一个能薅羊毛的云计算平台。&lt;/p&gt;
@@ -100,17 +100,17 @@
         </item>
         <item>
         <title>AIGC What</title>
-        <link>https://stoic42.github.io/p/aigc-what/</link>
+        <link>http://localhost:1313/p/aigc-what/</link>
         <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/p/aigc-what/</guid>
+        <guid>http://localhost:1313/p/aigc-what/</guid>
         <description>&lt;p&gt;I have recently joined several free online summer camps about AI training. My head is muddled, but I am still trying to push this through.&lt;/p&gt;
 &lt;p&gt;I basically just changed all the &amp;lsquo;女孩&amp;rsquo; in the keywords by default to &amp;lsquo;男孩&amp;rsquo;. I hope it is not only females who are being gazed, so this is why&amp;hellip;&lt;/p&gt;
 &lt;p&gt;I still feel the prompts are a bit weird, but to hell with those. I am done with task 1.
-&lt;img src=&#34;https://stoic42.github.io/p/aigc-what/BoyOhBoy.jpg&#34;
+&lt;img src=&#34;http://localhost:1313/p/aigc-what/BoyOhBoy.jpg&#34;
 	width=&#34;1024&#34;
 	height=&#34;1024&#34;
-	srcset=&#34;https://stoic42.github.io/p/aigc-what/BoyOhBoy_hua139cd2790ed846190d0950043b8a901_142500_480x0_resize_q75_box.jpg 480w, https://stoic42.github.io/p/aigc-what/BoyOhBoy_hua139cd2790ed846190d0950043b8a901_142500_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/aigc-what/BoyOhBoy_hua139cd2790ed846190d0950043b8a901_142500_480x0_resize_q75_box.jpg 480w, http://localhost:1313/p/aigc-what/BoyOhBoy_hua139cd2790ed846190d0950043b8a901_142500_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;BoyOhBoy&#34;
@@ -125,10 +125,10 @@
         </item>
         <item>
         <title>PR31504财务管理期中考 考后复盘</title>
-        <link>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E8%80%83%E5%90%8E%E5%A4%8D%E7%9B%98/</link>
+        <link>http://localhost:1313/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E8%80%83%E5%90%8E%E5%A4%8D%E7%9B%98/</link>
         <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E8%80%83%E5%90%8E%E5%A4%8D%E7%9B%98/</guid>
+        <guid>http://localhost:1313/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E8%80%83%E5%90%8E%E5%A4%8D%E7%9B%98/</guid>
         <description>&lt;p&gt;这次考试考了很多我没想到要复习的地方，
 比如：&lt;/p&gt;
 &lt;ul&gt;
@@ -203,10 +203,10 @@
         </item>
         <item>
         <title>PR31504财务管理期中考 详尽版</title>
-        <link>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E8%AF%A6%E5%B0%BD%E7%89%88/</link>
+        <link>http://localhost:1313/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E8%AF%A6%E5%B0%BD%E7%89%88/</link>
         <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E8%AF%A6%E5%B0%BD%E7%89%88/</guid>
+        <guid>http://localhost:1313/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E8%AF%A6%E5%B0%BD%E7%89%88/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;The following content has been generated by giving all the slides of the FOUR topics to ChatGPT4-o and asking the model to &lt;code&gt;offer Chinese back to back translation for this review material&lt;/code&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -476,10 +476,10 @@
         </item>
         <item>
         <title>PR31504财务管理期中考</title>
-        <link>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83/</link>
+        <link>http://localhost:1313/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83/</link>
         <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83/</guid>
+        <guid>http://localhost:1313/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;The following content has been generated by giving all the slides of the FOUR topics to ChatGPT4-o and asking the model to &lt;code&gt;make a decent and structured review material out of the 4 topics&#39; slides&lt;/code&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -646,10 +646,10 @@
         </item>
         <item>
         <title>PR31504财务管理期中考 GPT预测18题</title>
-        <link>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-gpt%E9%A2%84%E6%B5%8B18%E9%A2%98/</link>
+        <link>http://localhost:1313/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-gpt%E9%A2%84%E6%B5%8B18%E9%A2%98/</link>
         <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-gpt%E9%A2%84%E6%B5%8B18%E9%A2%98/</guid>
+        <guid>http://localhost:1313/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-gpt%E9%A2%84%E6%B5%8B18%E9%A2%98/</guid>
         <description>&lt;h3 id=&#34;heading&#34;&gt;
 &lt;/h3&gt;&lt;p&gt;Mock Multiple Choice Questions for Financial Management&lt;/p&gt;
 &lt;h4 id=&#34;topic-1-introducing-financial-management&#34;&gt;Topic 1: Introducing Financial Management
@@ -848,10 +848,10 @@
         </item>
         <item>
         <title>PR31504财务管理期中考 GPT预测39题</title>
-        <link>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-gpt%E9%A2%84%E6%B5%8B39%E9%A2%98/</link>
+        <link>http://localhost:1313/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-gpt%E9%A2%84%E6%B5%8B39%E9%A2%98/</link>
         <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-gpt%E9%A2%84%E6%B5%8B39%E9%A2%98/</guid>
+        <guid>http://localhost:1313/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-gpt%E9%A2%84%E6%B5%8B39%E9%A2%98/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;ChatGPT can make mistakes. Check important info.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1262,10 +1262,10 @@
         </item>
         <item>
         <title>PR31504财务管理期中考 双语版</title>
-        <link>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E5%8F%8C%E8%AF%AD%E7%89%88/</link>
+        <link>http://localhost:1313/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E5%8F%8C%E8%AF%AD%E7%89%88/</link>
         <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E5%8F%8C%E8%AF%AD%E7%89%88/</guid>
+        <guid>http://localhost:1313/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E5%8F%8C%E8%AF%AD%E7%89%88/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;The following content has been generated by giving all the slides of the FOUR topics to ChatGPT4-o and asking the model to &lt;code&gt;offer Chinese back to back translation for this review material&lt;/code&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1535,10 +1535,10 @@
         </item>
         <item>
         <title>PR31504财务管理期中考 根据题目整理</title>
-        <link>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E6%A0%B9%E6%8D%AE%E9%A2%98%E7%9B%AE%E6%95%B4%E7%90%86/</link>
+        <link>http://localhost:1313/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E6%A0%B9%E6%8D%AE%E9%A2%98%E7%9B%AE%E6%95%B4%E7%90%86/</link>
         <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E6%A0%B9%E6%8D%AE%E9%A2%98%E7%9B%AE%E6%95%B4%E7%90%86/</guid>
+        <guid>http://localhost:1313/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E6%A0%B9%E6%8D%AE%E9%A2%98%E7%9B%AE%E6%95%B4%E7%90%86/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;Prompt: &lt;code&gt;Could you offer a frame as detailed as possible of the knowledge we need to understand about the questions in order to get high grades?&lt;/code&gt;
 Files: all of the in- and after- class questions and their solutions&lt;/p&gt;
@@ -1755,10 +1755,10 @@ Files: all of the in- and after- class questions and their solutions&lt;/p&gt;
         </item>
         <item>
         <title>PR31504财务管理期中考 根据题目整理 双语版</title>
-        <link>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E6%A0%B9%E6%8D%AE%E9%A2%98%E7%9B%AE%E6%95%B4%E7%90%86-%E5%8F%8C%E8%AF%AD%E7%89%88/</link>
+        <link>http://localhost:1313/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E6%A0%B9%E6%8D%AE%E9%A2%98%E7%9B%AE%E6%95%B4%E7%90%86-%E5%8F%8C%E8%AF%AD%E7%89%88/</link>
         <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E6%A0%B9%E6%8D%AE%E9%A2%98%E7%9B%AE%E6%95%B4%E7%90%86-%E5%8F%8C%E8%AF%AD%E7%89%88/</guid>
+        <guid>http://localhost:1313/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E6%A0%B9%E6%8D%AE%E9%A2%98%E7%9B%AE%E6%95%B4%E7%90%86-%E5%8F%8C%E8%AF%AD%E7%89%88/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;GPT从课后和当堂练习中提炼出来的应对考试需要了解的知识点。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2101,19 +2101,19 @@ Files: all of the in- and after- class questions and their solutions&lt;/p&gt;
         </item>
         <item>
         <title>PMP = Project Manager Professional Certificate</title>
-        <link>https://stoic42.github.io/p/pmp-project-manager-professional-certificate/</link>
+        <link>http://localhost:1313/p/pmp-project-manager-professional-certificate/</link>
         <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stoic42.github.io/p/pmp-project-manager-professional-certificate/</guid>
+        <guid>http://localhost:1313/p/pmp-project-manager-professional-certificate/</guid>
         <description>&lt;p&gt;那天学长讲完之后，我就搜了下PMP这个事儿，发现Coursera上就有能issue这个证书的课程：
 &lt;a class=&#34;link&#34; href=&#34;https://www.coursera.org/professional-certificates/ibm-it-project-manager&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;IBM IT Project Manager Professional Certificate&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;以下是我学这门课的笔记。感觉听着挺耳熟的，就是上学期我们学的&lt;strong&gt;项目管理&lt;/strong&gt;。&lt;/p&gt;
 &lt;h1 id=&#34;week-1&#34;&gt;Week 1
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://stoic42.github.io/p/pmp-project-manager-professional-certificate/constraints.png&#34;
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pmp-project-manager-professional-certificate/constraints.png&#34;
 	width=&#34;1920&#34;
 	height=&#34;1080&#34;
-	srcset=&#34;https://stoic42.github.io/p/pmp-project-manager-professional-certificate/constraints_hu522c7886f117824964917b8e31cdc3e0_561505_480x0_resize_box_3.png 480w, https://stoic42.github.io/p/pmp-project-manager-professional-certificate/constraints_hu522c7886f117824964917b8e31cdc3e0_561505_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/pmp-project-manager-professional-certificate/constraints_hu522c7886f117824964917b8e31cdc3e0_561505_480x0_resize_box_3.png 480w, http://localhost:1313/p/pmp-project-manager-professional-certificate/constraints_hu522c7886f117824964917b8e31cdc3e0_561505_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Constraints&#34;
