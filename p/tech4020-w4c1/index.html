@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="脑图 简单版（腾讯元宝） ![[Pasted image 20241126221714.png]] 复杂版（腾讯元宝+Markmap） ![[Pasted image 20241126231752.png]] AI总结 智能总结（夸克听记） 讨论了金融数学中的复合利率转换为实际利率方法">
+<title>TECH4020 W4C1</title>
+
+<link rel='canonical' href='https://stoic42.github.io/p/tech4020-w4c1/'>
+
+<link rel="stylesheet" href="/scss/style.min.0304c6baf04e01a8fe70693791cb744d56a3578a3120a8796cefc66825aa39c7.css"><meta property='og:title' content="TECH4020 W4C1">
+<meta property='og:description' content="脑图 简单版（腾讯元宝） ![[Pasted image 20241126221714.png]] 复杂版（腾讯元宝+Markmap） ![[Pasted image 20241126231752.png]] AI总结 智能总结（夸克听记） 讨论了金融数学中的复合利率转换为实际利率方法">
+<meta property='og:url' content='https://stoic42.github.io/p/tech4020-w4c1/'>
+<meta property='og:site_name' content='DESALON'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='university' /><meta property='article:tag' content='public' /><meta property='article:tag' content='record' /><meta property='article:tag' content='outline' /><meta property='article:tag' content='TECH4020' />
+<meta name="twitter:title" content="TECH4020 W4C1">
+<meta name="twitter:description" content="脑图 简单版（腾讯元宝） ![[Pasted image 20241126221714.png]] 复杂版（腾讯元宝+Markmap） ![[Pasted image 20241126231752.png]] AI总结 智能总结（夸克听记） 讨论了金融数学中的复合利率转换为实际利率方法">
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+  
+
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu1f83243b662b043deb6a88ccefc1e8bf_29723_300x0_resize_box_3.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🥺</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">DESALON</a></h1>
+            <h2 class="site-description">I am very grateful for this information era since it has let me build this beautiful site and share my experiences here. </h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href='https://github.com/stoic42'
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://ton-ton.link/@gingerrr'
+                        target="_blank"
+                        title="Mastodon"
+                        rel="me"
+                    >
+                        
+                        
+                            <?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><defs><style>.a{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class="a" d="M41.0662,20.4015c0,6.2578-.9723,8.3975-2.8838,10.19C34.3081,34.2257,24,33.9433,24,33.9433a40.2923,40.2923,0,0,1-7.0141-.5285S15.86,40.829,30.09,37.1931l-.1445,4.2408c-2.1685.29-22.807,7.92-22.956-18.657l-.056-2.3759c0-6.2578.05-8.4823,2.8838-11.611C13.3831,4.8527,24,5.3547,24,5.3547s10.617-.502,14.182,3.4353c2.8336,3.129,2.8838,5.3535,2.8838,11.611"/><path class="a" d="M24,23.3125V17.3351a4.6542,4.6542,0,0,0-4.6543-4.6542h0a4.6542,4.6542,0,0,0-4.6542,4.6542v9.6463"/><path class="a" d="M24,17.3351a4.6542,4.6542,0,0,1,4.6543-4.6542h0a4.6542,4.6542,0,0,1,4.6542,4.6542v9.6463"/></svg>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://twitter.com'
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/links/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>Links</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+        <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Table of contents</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#脑图腾讯元宝markmap">脑图（腾讯元宝+Markmap）</a></li>
+    <li><a href="#时间顺序章节速览夸克听记">时间顺序章节速览（夸克听记）</a>
+      <ol>
+        <li>
+          <ol>
+            <li><a href="#000---详细课程安排及学分要求">0:00 - 详细课程安排及学分要求</a></li>
+            <li><a href="#435---高等课程标准及学分获取难度">4:35 - 高等课程标准及学分获取难度</a></li>
+            <li><a href="#852---纪念大学课程设计与交叉学科教育">8:52 - 纪念大学课程设计与交叉学科教育</a></li>
+            <li><a href="#1253---技术项目经济学课程介绍">12:53 - 技术项目经济学课程介绍</a></li>
+            <li><a href="#2114---经济学基础与工程决策课程教学大纲">21:14 - 经济学基础与工程决策课程教学大纲</a></li>
+            <li><a href="#2434---考试形式和课程要求说明">24:34 - 考试形式和课程要求说明</a></li>
+            <li><a href="#2758---课程考核与评估标准的调整与鼓励措施">27:58 - 课程考核与评估标准的调整与鼓励措施</a></li>
+            <li><a href="#3016---短期授课课程及考试安排">30:16 - 短期授课课程及考试安排</a></li>
+            <li><a href="#3405---商业项目管理及财务管理课程内容概览">34:05 - 商业项目管理及财务管理课程内容概览</a></li>
+            <li><a href="#3937---商业分析和决策制定的策略">39:37 - 商业分析和决策制定的策略</a></li>
+            <li><a href="#4218---课程要求和互动方式说明">42:18 - 课程要求和互动方式说明</a></li>
+            <li><a href="#4654---杂乱无章的对话内容">46:54 - 杂乱无章的对话内容</a></li>
+            <li><a href="#5317---课程出勤及作业要求说明">53:17 - 课程出勤及作业要求说明</a></li>
+            <li><a href="#5657---课程请假和参与政策说明">56:57 - 课程请假和参与政策说明</a></li>
+            <li><a href="#10123---科技设备使用及学术诚信要求说明">1:01:23 - 科技设备使用及学术诚信要求说明</a></li>
+            <li><a href="#10605---课程进度与考试安排说明">1:06:05 - 课程进度与考试安排说明</a></li>
+            <li><a href="#11026---详细指导论文写作和项目管理">1:10:26 - 详细指导论文写作和项目管理</a></li>
+            <li><a href="#11548---详解商业模式和企业运营的分类与实践">1:15:48 - 详解商业模式和企业运营的分类与实践</a></li>
+            <li><a href="#12307---项目管理与量化模型在工程经济学中的应用">1:23:07 - 项目管理与量化模型在工程经济学中的应用</a></li>
+            <li><a href="#13209---工程学与经济学的交叉与结合">1:32:09 - 工程学与经济学的交叉与结合</a></li>
+          </ol>
+        </li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+    
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/record/" >
+                Record
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/tech4020-w4c1/">TECH4020 W4C1</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Nov 26, 2024</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    11 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <h2 id="脑图腾讯元宝markmap">脑图（腾讯元宝+Markmap）
+</h2><p>![[img_960386ee1567214c90a9e35c29331bee_20241107_155752_396.jpg]]</p>
+<h2 id="时间顺序章节速览夸克听记">时间顺序章节速览（夸克听记）
+</h2><h4 id="000---详细课程安排及学分要求">0:00 - 详细课程安排及学分要求
+</h4><p>学校规划了一个从学前到明年4月26日结束的完整学习周期，分为三个十周阶段，每个阶段完成四门课程，总共需要修满39个学分。其中，三门语言课程已经提前完成，剩余课程包括技术运营管理、质量管理、特殊化专题等。四年级注册需满足雅思6.5分且单项不低于6分，或托福79分且写作21分，强调了对语言和写作能力的要求。此外，提到过去与现在的学习要求差异，从前侧重标准化测试，现在则提供更多通过课程学习获得学分的机会。</p>
+<h4 id="435---高等课程标准及学分获取难度">4:35 - 高等课程标准及学分获取难度
+</h4><p>在高级课程的学习中，学生需注意课程的递进性和前提性，以及GPA和平均成绩的要求。理科生与文科生在学分获取和平均分要求上有所不同，但总体上理科生的学分获取相对容易。班级中有25%的学生目前不达标，强调了个人学术定位和分数申请的重要性。此外，本学期提供课程资料，帮助学生更好地准备和理解课程内容。</p>
+<h4 id="852---纪念大学课程设计与交叉学科教育">8:52 - 纪念大学课程设计与交叉学科教育
+</h4><p>纪念大学自2010年开始设计课程，经过多次修订，形成了成熟的核心课程体系，适用于工程及经济学领域，强调复合型人才培养。课程要求学生不仅掌握技术，还需具备管理能力，培养理性思维和财务管理知识，适应企业需求，为学生未来职业发展打下坚实基础。同时，此类课程作为交叉学科的代表，受到国内外高校的重视，成为新一轮学科评估和建设中的重点。</p>
+<h4 id="1253---技术项目经济学课程介绍">12:53 - 技术项目经济学课程介绍
+</h4><p>本次课程专注于技术项目经济学，旨在通过经济学视角来分析技术性项目，包括成本、财务评估和项目决策等。课程目标为学生提供技术与决策相结合的全面视角，使学生掌握风险评估、项目比较和替代性分析等技能。此外，教师还强调了技术和商业决策的重要性，指出技术虽然关键，但最终目的是辅助商业决策，从而实现项目的成功。</p>
+<h4 id="2114---经济学基础与工程决策课程教学大纲">21:14 - 经济学基础与工程决策课程教学大纲
+</h4><p>这门课程旨在教授学生经济学的基本概念和原理，特别是与工程决策相关的财务知识，如现金流分析、货币价值计算和投资项目评估。课程内容覆盖了决策制定的基础原则，以及工程项目的经济分析。教学方法包括课堂互动、个人作业、期中考试、团队项目和期末考试，其中期末考试占总成绩的60%。课堂互动和练习占10%，个人作业占10%，期中考试占20%，团队项目占40%。课程设计旨在通过多样化的评估方式，确保学生能够全面掌握课程内容，并应用于实际工程决策中。</p>
+<h4 id="2434---考试形式和课程要求说明">24:34 - 考试形式和课程要求说明
+</h4><p>课程讲师强调考试内容覆盖全部讲授章节，重点强调所有学生都需掌握的核心知识点。考试题型不提前透露，根据学生互动和作业情况随机决定。讲师保证所有考试题和作业题均出自指定教材，不鼓励使用额外辅导材料。课程采用开卷或闭卷考试形式，强调实际应用能力，考试难度和时间安排考虑了实际操作的复杂性。课程设计由讲师长期规划，保持了一致性和实用性。</p>
+<h4 id="2758---课程考核与评估标准的调整与鼓励措施">27:58 - 课程考核与评估标准的调整与鼓励措施
+</h4><p>课程考核覆盖大纲要求，评估标准根据反馈与表现调整，确保公平性。鼓励学生参与，特别注意基础掌握与应用能力。课程难度高，初期通过率不足50%，强调无需外语，开卷考试资料可参考，重点是学生自我学习与应用。</p>
+<h4 id="3016---短期授课课程及考试安排">30:16 - 短期授课课程及考试安排
+</h4><p>讨论了学校采用的短期授课模式，每轮课程持续六周，期间设有期中或大考试，课程紧张且要求严格。学校早期对教师投入了大量人力物力，反映了课程的重视程度。尽管近年来薪酬有所增长，但课程难度及对学生的期望值依旧保持较高水平。强调了课程中涉及的高级知识和计算问题，以及应对策略，如调整评价体系以帮助学生获得更高分数。提到使用的教材为第16版本，并关注其发放时间。</p>
+<h4 id="3405---商业项目管理及财务管理课程内容概览">34:05 - 商业项目管理及财务管理课程内容概览
+</h4><p>讨论了商业项目管理中的几个关键点：初步项目介绍的重要性，财务管理中钱的时间价值及其在不同国家的体现，金融计算器的使用，以及在不同经济状态下的商业目的和生存策略。强调了在经济不景气时，商业的首要目标是生存而非仅仅追求利润最大化。此外，讨论了通胀和通缩的影响，以及在不同周期中企业所面临的挑战和应对策略。</p>
+<h4 id="3937---商业分析和决策制定的策略">39:37 - 商业分析和决策制定的策略
+</h4><p>讨论了商业分析和决策制定中的两个主要杠杆：扩大利润或减少成本，以及如何通过增加收入或折扣、延迟来实现。同时，涉及投资回报率的计算、现实年值和成本效益比，以及利用统计学概念进行决策分析。强调使用简单方法解释高级数学原理，以便于理解，特别是对于没有基础性知识的读者。</p>
+<h4 id="4218---课程要求和互动方式说明">42:18 - 课程要求和互动方式说明
+</h4><p>课程不会每堂课点到每个人，但会通过提问、pop quiz等方式了解学生出勤情况。过去十几年，课程要求始终如一，包括学生的参与和评估方式。课程强调集体参与和社会主义理念，同时也讨论了商品化与资本服务的关系，以及社会生产关系的重要性。</p>
+<h4 id="4654---杂乱无章的对话内容">46:54 - 杂乱无章的对话内容
+</h4><p>这段对话内容看起来像是多个不连贯的片段，涉及到了学习小组解散、个人称呼混淆、技术交流、组织活动、个人评价、数据处理等多个方面。讨论中出现了对学术、工作、社交情况的讨论，但缺乏清晰的逻辑和主题聚焦。</p>
+<h4 id="5317---课程出勤及作业要求说明">53:17 - 课程出勤及作业要求说明
+</h4><p>课程强调良好出勤为必要条件，未出勤将影响成绩评定。作业提交需通过特定在线系统，未按要求完成将不接受补交。对于特殊情况，学生需提前请假并通知教师，确保沟通畅通。</p>
+<h4 id="5657---课程请假和参与政策说明">56:57 - 课程请假和参与政策说明
+</h4><p>讨论了课程中的请假政策，强调了突发情况需提前通知，常规作业提交有充足时间，鼓励学生积极参与课程讨论与提出建议。同时，强调了学生在提交作业和考试时需要使用特定学号，并对课程的参与规则和学生互动方式进行说明。</p>
+<h4 id="10123---科技设备使用及学术诚信要求说明">1:01:23 - 科技设备使用及学术诚信要求说明
+</h4><p>强调了科技设备在课堂中的恰当使用，明确反对沉迷于手机游戏或社交媒体等不健康使用方式，提倡将科技作为学习工具。同时也提出对于学术诚信的要求，包括禁止抄袭和作弊，强调作业的原创性。指出课堂内吃有气味的食物、共享食物等行为的不适宜，并对学术报告和个人作业的格式和原创性提出了具体要求。</p>
+<h4 id="10605---课程进度与考试安排说明">1:06:05 - 课程进度与考试安排说明
+</h4><p>讨论了课程的具体安排，包括第五教学周的期中考试，以及之后的小组作业和可能的教学内容调整。强调了教材的重要性，特别是在开卷考试中。讲解了计算题评分标准，强调过程分和逻辑推理的重要性。提醒学生要独立学习，不能抄袭。最后，暗示了后续课程将涉及具体章节内容，并鼓励学生提前准备。</p>
+<h4 id="11026---详细指导论文写作和项目管理">1:10:26 - 详细指导论文写作和项目管理
+</h4><p>课程内容涉及论文写作指导、项目管理安排以及具体任务分配。从本学期开始，每周四下午进行45分钟的论文写作指导，预计持续到明年四月下旬，包括26周课程和寒假时间。学生将收到黄色指导手册和APA指导材料，以帮助完成论文。课程还涵盖了如何制定论文提案、选择导师和时间规划，以及后续的演讲和答辩准备。</p>
+<h4 id="11548---详解商业模式和企业运营的分类与实践">1:15:48 - 详解商业模式和企业运营的分类与实践
+</h4><p>讨论了企业商业模式的分类，包括市场、财务和运营三大类，以及它们之间的关系和职能分配。强调了财务管理、预算预测和精益化管理在企业运营中的重要性，并提及了相关的管理认证和实践方法。此外，还提到软性技能和人文社科在现代企业中的价值，并强调了跨领域知识的交叉融合在高级阶段的重要性。</p>
+<h4 id="12307---项目管理与量化模型在工程经济学中的应用">1:23:07 - 项目管理与量化模型在工程经济学中的应用
+</h4><p>在项目性管理的角度，首先关注项目设计与规划的方法论，包括最小路径法和最小二乘法等，以及解决实际问题的量化模型。讨论了在项目管理过程中，如何应用统计软件（如SAS, SPSS）进行数据分析，强调了软件在简化复杂问题和提供定量分析方面的重要性。此外，还探讨了在研究和报告中加入管理原理和应用的重要性，以增强报告的商业价值。对话还特别提到，理解和区分公司市值和股票价格对于决策分析至关重要，这些知识在工程经济学的应用中显得尤为重要。</p>
+<h4 id="13209---工程学与经济学的交叉与结合">1:32:09 - 工程学与经济学的交叉与结合
+</h4><p>讨论了工程学与经济学的基础概念及其在实际应用中的差异与联系。工程学关注于应用现有的科学知识和技术，设计、生产和运营满足人类需求的技术系统，同时强调伦理和道德考量。经济学则着重于在现有资源下寻找最佳解决方案，关注于宏观和微观经济的运作，以及个体和国家层面的经济活动。两者的结合体现了理论与实践的相互作用，强调了在解决实际问题时，技术与经济考量的重要性。</p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/university/">University</a>
+        
+            <a href="/tags/public/">Public</a>
+        
+            <a href="/tags/record/">Record</a>
+        
+            <a href="/tags/outline/">Outline</a>
+        
+            <a href="/tags/tech4020/">TECH4020</a>
+        
+    </section>
+
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>Licensed under CC BY-NC-SA 4.0</span>
+    </section>
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Related content</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/p/tech4020-w4c1/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">TECH4020 W4C1</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/p/tech4020-w2c1/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">TECH4020 W2C1</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/p/tech4020-w4c1/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">TECH4020 W4C1</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E8%80%83%E5%90%8E%E5%A4%8D%E7%9B%98/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">PR31504财务管理期中考 考后复盘</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/p/pr31504%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E6%9C%9F%E4%B8%AD%E8%80%83-%E8%AF%A6%E5%B0%BD%E7%89%88/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">PR31504财务管理期中考 详尽版</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+    
+    
+        
+    <div class="disqus-container">
+    <div id="disqus_thread"></div>
+<script>
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "desal" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2024 DESALON
+    </section>
+    
+    <section class="powerby">
+        
+            Let's move! <br/>
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.26.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>
