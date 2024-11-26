@@ -2,128 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on DESALON</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://stoic42.github.io/tags/</link>
         <description>Recent content in Tags on DESALON</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Learning</title>
-        <link>http://localhost:1313/tags/learning/</link>
-        <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+        <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://stoic42.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Outline</title>
+        <link>https://stoic42.github.io/tags/outline/</link>
+        <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/learning/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Notes</title>
-        <link>http://localhost:1313/tags/notes/</link>
-        <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/notes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Reading</title>
-        <link>http://localhost:1313/tags/reading/</link>
-        <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/reading/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Triathlon</title>
-        <link>http://localhost:1313/tags/triathlon/</link>
-        <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/triathlon/</guid>
+        <guid>https://stoic42.github.io/tags/outline/</guid>
         <description></description>
         </item>
         <item>
         <title>Public</title>
-        <link>http://localhost:1313/tags/public/</link>
-        <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+        <link>https://stoic42.github.io/tags/public/</link>
+        <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/public/</guid>
+        <guid>https://stoic42.github.io/tags/public/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Record</title>
+        <link>https://stoic42.github.io/tags/record/</link>
+        <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://stoic42.github.io/tags/record/</guid>
         <description></description>
         </item>
         <item>
         <title>University</title>
-        <link>http://localhost:1313/tags/university/</link>
-        <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+        <link>https://stoic42.github.io/tags/university/</link>
+        <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/university/</guid>
+        <guid>https://stoic42.github.io/tags/university/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Learning</title>
+        <link>https://stoic42.github.io/tags/learning/</link>
+        <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://stoic42.github.io/tags/learning/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Notes</title>
+        <link>https://stoic42.github.io/tags/notes/</link>
+        <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://stoic42.github.io/tags/notes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Reading</title>
+        <link>https://stoic42.github.io/tags/reading/</link>
+        <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://stoic42.github.io/tags/reading/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Triathlon</title>
+        <link>https://stoic42.github.io/tags/triathlon/</link>
+        <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://stoic42.github.io/tags/triathlon/</guid>
         <description></description>
         </item>
         <item>
         <title>Meeting</title>
-        <link>http://localhost:1313/tags/meeting/</link>
+        <link>https://stoic42.github.io/tags/meeting/</link>
         <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/meeting/</guid>
+        <guid>https://stoic42.github.io/tags/meeting/</guid>
         <description></description>
         </item>
         <item>
         <title>Exam</title>
-        <link>http://localhost:1313/tags/exam/</link>
+        <link>https://stoic42.github.io/tags/exam/</link>
         <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/exam/</guid>
+        <guid>https://stoic42.github.io/tags/exam/</guid>
         <description></description>
         </item>
         <item>
         <title>Midterm</title>
-        <link>http://localhost:1313/tags/midterm/</link>
+        <link>https://stoic42.github.io/tags/midterm/</link>
         <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/midterm/</guid>
+        <guid>https://stoic42.github.io/tags/midterm/</guid>
         <description></description>
         </item>
         <item>
         <title>On-Campus</title>
-        <link>http://localhost:1313/tags/on-campus/</link>
+        <link>https://stoic42.github.io/tags/on-campus/</link>
         <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/on-campus/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Outline</title>
-        <link>http://localhost:1313/tags/outline/</link>
-        <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/outline/</guid>
+        <guid>https://stoic42.github.io/tags/on-campus/</guid>
         <description></description>
         </item>
         <item>
         <title>PR31504</title>
-        <link>http://localhost:1313/tags/pr31504/</link>
+        <link>https://stoic42.github.io/tags/pr31504/</link>
         <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/pr31504/</guid>
+        <guid>https://stoic42.github.io/tags/pr31504/</guid>
         <description></description>
         </item>
         <item>
         <title>MOOC</title>
-        <link>http://localhost:1313/tags/mooc/</link>
+        <link>https://stoic42.github.io/tags/mooc/</link>
         <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/mooc/</guid>
+        <guid>https://stoic42.github.io/tags/mooc/</guid>
         <description></description>
         </item>
         <item>
         <title>Advertisement</title>
-        <link>http://localhost:1313/tags/advertisement/</link>
+        <link>https://stoic42.github.io/tags/advertisement/</link>
         <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/advertisement/</guid>
+        <guid>https://stoic42.github.io/tags/advertisement/</guid>
         <description></description>
         </item>
         <item>
         <title>Recruitment</title>
-        <link>http://localhost:1313/tags/recruitment/</link>
+        <link>https://stoic42.github.io/tags/recruitment/</link>
         <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/recruitment/</guid>
+        <guid>https://stoic42.github.io/tags/recruitment/</guid>
         <description></description>
         </item>
         
